@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Ramayan",
+    "thumbnail": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/ramayan.jpg",
+    "videoId": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/Ramayan.json"
+  },
+  {
+    "title": "Luv Kush Ramayan",
+    "thumbnail": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/luv-kush-ramayan.jpg",
+    "videoId": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/Luv%20Kush%20Ramayan.json"
+  },
+  {
+    "title": "Mahabharat",
+    "thumbnail": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/mahabharat.jpg",
+    "videoId": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/Mahabharat.json"
+  },
+  {
+    "title": "Krishna Leela",
+    "thumbnail": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/krishna-leela.jpg",
+    "videoId": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/krishna_keela.json"
+  },
+  {
+    "title": "Jai Hanuman",
+    "thumbnail": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/jai-hanuman.jpg",
+    "videoId": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/Jai%20Hanuman.json"
+  },
+  {
+    "title": "Mahima Shani Dev Ki",
+    "thumbnail": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/mahima-shanidev-ki.jpg",
+    "videoId": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/Mahima%20Shani%20Dev%20Ki.json"
+  },
+  {
+    "title": "Om Namah Shivaya",
+    "thumbnail": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/om-namah-shivaya.jpg",
+    "videoId": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/Om%20Namah%20Shivaya.json"
+  },
+  {
+    "title": "Shiv Puran",
+    "thumbnail": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/shiv-puran.jpg",
+    "videoId": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/Shiv%20Puran.json"
+  },
+  {
+    "title": "Vishnu Puran",
+    "thumbnail": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/vishnu-puran.jpg",
+    "videoId": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/Vishnu%20Puran.json"
+  },
+  {
+    "title": "Arabian Nights Alif Laila",
+    "thumbnail": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/alif-laila.jpg",
+    "videoId": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/Arabian%20Nights%20Alif%20Laila.json"
+  },
+  {
+    "title": "Akbar Birbal",
+    "thumbnail": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/akbar-birbal.jpg",
+    "videoId": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/Akbar%20Birbal.json"
+  },
+  {
+    "title": "Chanakya",
+    "thumbnail": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/chankya.jpg",
+    "videoId": "https://raw.githubusercontent.com/jaydip7677/bhakti-yug/master/Chanakya.json"
+  }
+]
